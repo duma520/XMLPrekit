@@ -1,0 +1,1605 @@
+<teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄ¹ð»¨Óã09">
+    <basicsetting bAutoAttackNpc="1" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄ°×÷­08">
+    <basicsetting bAutoAttackNpc="1" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´ó³þ2">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÑà3">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÕÔ4">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óºº5">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÎº6">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÆë9">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óËÎ8">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÎâ7">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+</plug>
+<teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+<teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄÈýÎÄÓã07">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="&#x0D;&#x0A;" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="0" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="3" />
+    </awsetting>
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÖÜ1">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="&#x0D;&#x0A;" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="0" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="3" />
+    </awsetting>
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄöêÓã06">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄÁúÏº01">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="Ï¡ÓÐµÄÊ¯°ß02;Ï¡ÓÐµÄÑ°Áú03;Ï¡ÓÐµÄÕÂÓã04;Ï¡ÓÐµÄ´óÕ¢Ð·05;Ï¡ÓÐµÄöêÓã06" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄÊ¯°ß02">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄÑ°Áú03">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄÕÂÓã04">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄ´óÕ¢Ð·05">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄöèÓã11">
+    <basicsetting bAutoAttackNpc="1" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄ¾¨Óã12">
+    <basicsetting bAutoAttackNpc="1" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄ»Æ»¨Óã10">
+    <basicsetting bAutoAttackNpc="1" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄ¹ð»¨Óã09">
+    <basicsetting bAutoAttackNpc="1" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="Ï¡ÓÐµÄ°×÷­08">
+    <basicsetting bAutoAttackNpc="1" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´ó³þ2">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÑà3">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÕÔ4">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óºº5">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÎº6">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÆë9">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óËÎ8">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎâ7" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+<plugsetting name="¶ÅÂê¸®¾Å×ª´óÎâ7">
+    <basicsetting bAutoAttackNpc="0" bPickItem="1" bAutoTeam="1" teamInfo="" pickItemInfo="ÌúÏÉµ¤;Í­ÏÉµ¤;¸ÊÂ¶²Ý;°²ÉñÂ¶;ÃÞÏß;Ì´Ä¾ÁÏ;Ìú¿ó;ÓñÊ¯;Ìì½£²Ý;ÁúÑÀ²Ý" fliterItem="0" fixPosAttackNpc="0" />
+    <highsetting autobegin="1" />
+    <awsetting bUseAwMagic="1" bSit="0" bChangeLife="1" bAutoHideSkill="1" sitPosX="0" sitPosY="0">
+        <aw skillId="0" bloodNum="5" magicNum="1" AuxMagic="0" selfskillId="0" slefbloodNum="5" selfmagicNum="0" selfAuxMagic="7" />
+    </awsetting>
+    <teammember name="ÀîºìÁáÍ¬Ö¾" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æµÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30µÄÃæÊ×" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½ÞÈ½Ü" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Áº»ÝÁá" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="´óÌÆ·áóÏ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÎÒÊÇÐ¡Ð¡µÄ²ËÄñ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹Ç»Ò¼¶²Ë³æ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ä¾30" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂêµÄ¾¯ÎÀÔ±" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐÄ¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="±±¾©Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÉÏº£Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÌÒÔ°Ì«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¹ãÖÝÌ«ÊØ" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂ³°à08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂÞÐ¡ºÚ09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æÂÞÐ¡ºÚ10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æºùÂ«ÍÞ11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="ÄÐ°æºùÂ«ÍÞ12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÊ¯°ß02" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÑ°Áú03" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÕÂÓã04" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ´óÕ¢Ð·05" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöêÓã06" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ°×÷­08" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¹ð»¨Óã09" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ»Æ»¨Óã10" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄöèÓã11" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄ¾¨Óã12" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´ó³þ2" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÑà3" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÕÔ4" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óºº5" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÎº6" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óËÎ8" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÆë9" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="·½º£Ïè" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="³þ»êVËæ·çËæÐÐ¸¸" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Å®°æÂ³°à07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÁúÏº01" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="Ï¡ÓÐµÄÈýÎÄÓã07" bloodNum="5" magicNum="1" AuxMagic="0" />
+    <teammember name="¶ÅÂê¸®¾Å×ª´óÖÜ1" bloodNum="5" magicNum="1" AuxMagic="0" />
+</plugsetting>
+</plug>
